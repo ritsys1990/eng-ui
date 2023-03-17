@@ -1,0 +1,163 @@
+{
+  "data": [
+    {
+      "Mata": 1,
+      "Hakuna": 2,
+      "YOLO": 1,
+      "Test": "11111",
+      "Test123": "1",
+      "ordering_col_for_spark_internal": 0,
+      "index_col_for_spark_internal": 0
+    },
+    {
+      "Mata": 1,
+      "Hakuna": 2,
+      "YOLO": 1,
+      "Test": "222222",
+      "Test123": "2",
+      "ordering_col_for_spark_internal": 1,
+      "index_col_for_spark_internal": 1
+    },
+    {
+      "Mata": 1,
+      "Hakuna": 2,
+      "YOLO": 1,
+      "Test": "333333",
+      "Test123": "3",
+      "ordering_col_for_spark_internal": 2,
+      "index_col_for_spark_internal": 2
+    },
+    {
+      "Mata": 1,
+      "Hakuna": 2,
+      "YOLO": 1,
+      "Test": "US0190S10",
+      "Test123": "AA",
+      "ordering_col_for_spark_internal": 8589934592,
+      "index_col_for_spark_internal": 3
+    },
+    {
+      "Mata": 1,
+      "Hakuna": 2,
+      "YOLO": 1,
+      "Test": "US0190S11",
+      "Test123": "BB",
+      "ordering_col_for_spark_internal": 8589934593,
+      "index_col_for_spark_internal": 4
+    },
+    {
+      "Mata": 1,
+      "Hakuna": 2,
+      "YOLO": 1,
+      "Test": "US0190S12",
+      "Test123": "CC",
+      "ordering_col_for_spark_internal": 8589934594,
+      "index_col_for_spark_internal": 5
+    },
+    {
+      "Mata": 1,
+      "Hakuna": 2,
+      "YOLO": 1,
+      "Test": "US0190S13",
+      "Test123": "AA",
+      "ordering_col_for_spark_internal": 8589934595,
+      "index_col_for_spark_internal": 6
+    },
+    {
+      "Mata": 1,
+      "Hakuna": 2,
+      "YOLO": 1,
+      "Test": "US0190S14",
+      "Test123": "BB",
+      "ordering_col_for_spark_internal": 8589934596,
+      "index_col_for_spark_internal": 7
+    },
+    {
+      "Mata": 1,
+      "Hakuna": 2,
+      "YOLO": 1,
+      "Test": "US0190S15",
+      "Test123": "CC",
+      "ordering_col_for_spark_internal": 8589934597,
+      "index_col_for_spark_internal": 8
+    },
+    {
+      "Mata": 1,
+      "Hakuna": 2,
+      "YOLO": 1,
+      "Test": "US0190S16",
+      "Test123": "AA",
+      "ordering_col_for_spark_internal": 8589934598,
+      "index_col_for_spark_internal": 9
+    }
+  ],
+  "rowCount": 1000943,
+  "table_id": "tblb6eb2256nc1d2n478bn8b82n0026b4d89d50",
+  "schema": [
+    {
+      "name": "Mata",
+      "type": "decimal(38,0)",
+      "isCurrency": false,
+      "dateFormat": "",
+      "isInternal": false,
+      "separator": false,
+      "ActualName": ""
+    },
+    {
+      "name": "Hakuna",
+      "type": "decimal(38,0)",
+      "isCurrency": false,
+      "dateFormat": "",
+      "isInternal": false,
+      "separator": false,
+      "ActualName": ""
+    },
+    {
+      "name": "YOLO",
+      "type": "decimal(38,0)",
+      "isCurrency": false,
+      "dateFormat": "",
+      "isInternal": false,
+      "separator": false,
+      "ActualName": ""
+    },
+    {
+      "name": "Test",
+      "type": "string",
+      "isCurrency": false,
+      "dateFormat": "",
+      "isInternal": false,
+      "separator": false,
+      "ActualName": ""
+    },
+    {
+      "name": "Test123",
+      "type": "string",
+      "isCurrency": false,
+      "dateFormat": "",
+      "isInternal": false,
+      "separator": false,
+      "ActualName": ""
+    },
+    {
+      "name": "ordering_col_for_spark_internal",
+      "type": "long",
+      "isCurrency": false,
+      "dateFormat": "",
+      "isInternal": true,
+      "separator": false,
+      "ActualName": ""
+    },
+    {
+      "name": "index_col_for_spark_internal",
+      "type": "long",
+      "isCurrency": false,
+      "dateFormat": "",
+      "isInternal": true,
+      "separator": false,
+      "ActualName": ""
+    }
+  ],
+  "pageNum": 0,
+  "transformationId": "93fc4ee8-c720-4aea-95f7-9dd20b9b5b90"
+}

@@ -1,0 +1,1 @@
+export const SUBMIT_REVIEW_TRANS_KEY = 'Pages_EngagementWorkpapers_SubmitReviewModalContent';

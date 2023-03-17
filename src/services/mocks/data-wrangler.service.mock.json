@@ -1,0 +1,28 @@
+{
+  "syncOutputs": [
+    {
+      "name": "Book1.csv",
+      "sourceType": "trifacta",
+      "sourceName": "Book1.csv",
+      "nodeId": null,
+      "trifactaOutputId": "1",
+      "engagementId": "1234-5678-90123-4567",
+      "workpaperId": "1234-5678-90123-4567",
+      "nodePath": "/dev/Book1.csv",
+      "status": "Not Started",
+      "id": "1234-5678-90123-4567"
+    },
+    {
+      "name": "Book2.csv",
+      "sourceType": "trifacta",
+      "sourceName": "Book2.csv",
+      "nodeId": "123456789",
+      "trifactaOutputId": "2",
+      "engagementId": "1234-5678-90123-4567",
+      "workpaperId": "1234-5678-90123-4567",
+      "nodePath": "/dev/Book2.csv",
+      "status": "Complete",
+      "id": "1234-5678-90123-4567"
+    }
+  ]
+}

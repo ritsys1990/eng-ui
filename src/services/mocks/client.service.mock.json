@@ -1,0 +1,19 @@
+{
+  "myClientList": [
+    {
+      "id": "1",
+      "name": "Konrad Group",
+      "description": "CL-001234"
+    },
+    {
+      "id": "2",
+      "name": "Brainstation",
+      "description": "CL-001234"
+    },
+    {
+      "id": "3",
+      "name": "Deloitte",
+      "description": "CL-001234"
+    }
+  ]
+}

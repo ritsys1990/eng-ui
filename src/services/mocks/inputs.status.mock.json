@@ -1,0 +1,58 @@
+{
+  "inputs": [
+    {
+      "id": "a760469e-fbd2-4911-bc7f-db302b4d670a",
+      "name": "Test 1",
+      "status": "done",
+      "required": true,
+      "error": null,
+      "schema": [
+        {
+          "name": "id",
+          "type": "string"
+        }
+      ],
+      "fileSchema": [
+        {
+          "name": "id",
+          "type": ""
+        }
+      ],
+      "mappings": [
+        {
+          "source": "",
+          "target": "",
+          "type": null
+        }
+      ],
+      "nodeId": 0
+    },
+    {
+      "id": "e9b8350a-dc9b-4431-ba1e-6686ca205389",
+      "name": "Test 2",
+      "status": null,
+      "error": null,
+      "required": true,
+      "schema": [
+        {
+          "name": "id",
+          "type": "string"
+        }
+      ],
+      "fileSchema": [
+        {
+          "name": "id",
+          "type": ""
+        }
+      ],
+      "mappings": [
+        {
+          "source": "",
+          "target": "",
+          "type": null
+        }
+      ],
+      "nodeId": 0
+    }
+  ]
+}

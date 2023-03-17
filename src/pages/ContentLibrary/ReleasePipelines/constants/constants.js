@@ -1,0 +1,1 @@
+export const COMPONENT_NAME = 'CL_RELEASE_PIPELINES';

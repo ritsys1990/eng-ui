@@ -1,0 +1,30 @@
+{
+  "clientIds": [],
+  "engagementIds": [],
+  "permissions": {
+    "admin": {
+      "view": true,
+      "update": true,
+      "delete": true,
+      "add": true,
+      "approve": true,
+      "submit": true
+    },
+    "contentLibrary": {
+      "view": true,
+      "update": true,
+      "delete": true,
+      "add": true,
+      "approve": true,
+      "submit": true
+    },
+    "engagement": {
+      "view": true,
+      "update": true,
+      "delete": true,
+      "add": true,
+      "approve": true,
+      "submit": true
+    }
+  }
+}

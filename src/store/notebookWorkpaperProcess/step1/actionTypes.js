@@ -1,0 +1,18 @@
+export const NotebookWPStep1ActionTypes = {
+  ATTACH: 'workpaper_step1.ATTACH',
+  ATTACH_SUCCESS: 'workpaper_step1.ATTACH_SUCCESS',
+  ATTACH_ERROR: 'workpaper_step1.ATTACH_ERROR',
+  SAVE_FILE_FOR_DATA_TABLE: 'workpaper_step1.SAVE_FILE_FOR_DATA_TABLE',
+  SAVE_FILE_FOR_DATA_TABLE_SUCCESS: 'workpaper_step1.SAVE_FILE_FOR_DATA_TABLE_SUCCESS',
+  SAVE_FILE_FOR_DATA_TABLE_ERROR: 'workpaper_step1.SAVE_FILE_FOR_DATA_TABLE_ERROR',
+  GET_INPUT: 'workpaper_step1.GET_INPUT',
+  GET_INPUT_SUCCESS: 'workpaper_step1.GET_INPUT_SUCCESS',
+  GET_INPUT_ERROR: 'workpaper_step1.GET_INPUT_ERROR',
+  RESET_INPUT: 'workpaper_step1.RESET_INPUT',
+  UPDATE_INPUT: 'workpaper_step1.UPDATE_INPUT',
+  UPDATE_INPUT_SUCCESS: 'workpaper_step1.UPDATE_INPUT_SUCCESS',
+  UPDATE_INPUT_ERROR: 'workpaper_step1.UPDATE_INPUT_ERROR',
+  GET_PREVIEW: 'workpaper_step1.GET_PREVIEW',
+  GET_PREVIEW_SUCCESS: 'workpaper_step1.GET_PREVIEW_SUCCESS',
+  GET_PREVIEW_ERROR: 'workpaper_step1.GET_PREVIEW_ERROR',
+};

@@ -1,0 +1,73 @@
+{
+  "inputs": [{}],
+  "inputId": {
+    "id": "",
+    "name": "Test Input",
+    "status": null,
+    "error": null,
+    "dataModelId": null,
+    "schema": [
+      { "name": "Date_Billed", "type": "" },
+      { "name": "Dt_slicecomponent", "type": "" },
+      { "name": "Aenean_Euismod", "type": "" },
+      { "name": "Ridiculus_Euismod", "type": "" },
+      { "name": "Vulputate_Purus_Consecteur", "type": "" },
+      { "name": "Porta_Justo", "type": "" },
+      { "name": "Dt_slicedate", "type": "" }
+    ],
+    "fileSchema": [
+      { "name": "FundId", "type": "" },
+      { "name": "Dt_slicecomponent", "type": "" },
+      { "name": "Dt_slicedate", "type": "" },
+      { "name": "Currency", "type": "" },
+      { "name": "ISIN", "type": "" },
+      { "name": "AssetType", "type": "" },
+      { "name": "Price", "type": "" }
+    ],
+    "mappings": [
+      {
+        "source": "Date_Billed",
+        "target": "",
+        "type": null,
+        "automapped": false
+      },
+      {
+        "source": "Dt_slicecomponent",
+        "target": "Dt_slicecomponent",
+        "type": null,
+        "automapped": true
+      },
+      {
+        "source": "Aenean_Euismod",
+        "target": "",
+        "type": null,
+        "automapped": false
+      },
+      {
+        "source": "Ridiculus_Euismod",
+        "target": "",
+        "type": null,
+        "automapped": false
+      },
+      {
+        "source": "Vulputate_Purus_Consecteur",
+        "target": "",
+        "type": null,
+        "automapped": false
+      },
+      {
+        "source": "Porta_Justo",
+        "target": "",
+        "type": null,
+        "automapped": false
+      },
+      {
+        "source": "Dt_slicedate",
+        "target": "Dt_slicedate",
+        "type": null,
+        "automapped": true
+      }
+    ],
+    "nodeId": "5e4c8f148d30960162230334"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "workPapersOutputs": {
+    "outputs": [
+      { "id": "jhasd21hg12v3g", "name": "Current Period" },
+      { "id": "fjhas234d21hg12v3g", "name": "Extra Period" }
+    ],
+    "tableau": [{ "name": "Current Period", "url": "/" }],
+    "cloned": false
+  }
+}

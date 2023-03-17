@@ -1,0 +1,14 @@
+{
+  "name": "engagement-ui-server",
+  "version": "0.1.0",
+  "private": true,
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "express": "^4.17.1",
+    "http-proxy": "^1.18.0",
+    "path": "^0.12.7"
+  }
+}
